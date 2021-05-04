@@ -1,0 +1,13 @@
+body{
+  background: url(../imagenes/Fondo1.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+h1{color: #E67E22}
+h2{color: #F7DC6F}
+h3{color: #FEF9E7}
+p{color: #FEF9E7}
+ul{color: #FEF9E7}
+li{color: #FEF9E7}
+a{color: #FEF9E7}
